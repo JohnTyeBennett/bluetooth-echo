@@ -1,0 +1,1 @@
+This is a minimal, single-threaded echo server and client using the Java Bluetooth API (JSR-82). Bluetooth is a fairly maddening technology to begin with, and then having the Java people get their hands on it...well, I suppose it could be worse(?).
